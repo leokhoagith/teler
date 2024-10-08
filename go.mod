@@ -6,7 +6,7 @@ require (
 	github.com/go-telegram-bot-api/telegram-bot-api v4.6.4+incompatible
 	github.com/logrusorgru/aurora v2.0.3+incompatible
 	github.com/projectdiscovery/gologger v1.0.1
-	github.com/satyrius/gonx v1.3.0
+	github.com/satyrius/gonx v1.4.0
 	github.com/slack-go/slack v0.7.2
 	github.com/smartystreets/goconvey v1.6.4 // indirect
 	github.com/technoweenie/multipartstreamer v1.0.1 // indirect
